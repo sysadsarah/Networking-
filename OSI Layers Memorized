@@ -1,0 +1,10 @@
+Learning the 7 layers of the OSI model can be difficult. 
+Here is a funny way of learning the layer going from 7 - 1. Remember: A penguin said that nobody drinks Pepsi. 
+
+7. Application        A
+6. Presentation       Penguin 
+5. Session            Said 
+4. Transport          That 
+2. Network            Nobody
+2. Data Link          Drinks 
+1. Physical           Pepsi
